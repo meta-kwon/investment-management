@@ -30,7 +30,7 @@ const Login = () => {
           <form onSubmit={handleSubmit}>
             <S.Title>
               <PersonOutlineIcon />
-              <p>로그인</p>
+              <p>Login</p>
             </S.Title>
             <S.InputWrap>
               <TextField
